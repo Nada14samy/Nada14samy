@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 What's up? Nada Samy</h1>
+<h1 align="center">Hey 👋 What's up? I'm Nada Samy</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nada14samy&label=Profile%20views&color=0e75b6&style=flat" alt="nada14samy" /> </p>
