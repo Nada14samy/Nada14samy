@@ -3,9 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nada14samy&label=Profile%20views&color=0e75b6&style=flat" alt="nada14samy" /> </p>
 
-- 🔭 I’m currently working on [My Pets](https://github.com/Nada14samy/My-Pets.git)
-
-- 🌱 I’m currently learning **React JS and UI&UX design**
+- 🔭 I’m currently working on [Petopia](https://github.com/Nada14samy/Petopia.git)
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://nada14samy.github.io/My-portfolio/)
 
