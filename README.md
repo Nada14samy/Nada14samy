@@ -3,9 +3,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nada14samy&label=Profile%20views&color=0e75b6&style=flat" alt="nada14samy" /> </p>
 
-- 🔭 I’m currently working on [Petopia](https://github.com/Nada14samy/Petopia.git) and [Restaurant-Egyptian-Foods](https://github.com/Nada14samy/Restaurant-Egyptian-Foods.git)
-
-- 👨‍💻 All of my projects are available at [My Portfolio](https://nada14samy.github.io/My-portfolio/)
+- 🔭 I’m currently working on [Petopia](https://github.com/Nada14samy/Petopia.git) 
+- 👨‍💻 All of my projects are available at [My Portfolio](https://my-portfolio-nada-samy.vercel.app/)
 
 - 📫 How to reach me **nadasamyali14@gmail.com**
 
